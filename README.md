@@ -1,4 +1,4 @@
-# #TODO4: CONTRATADO
+# #ToDo4: CONTRATADO
 Uma empresa recebeu muitos currículos para determinadas vagas e agora precisa classificar quantos candidatos tem o perfil necessário e quantos candidatos estão concorrendo a cada vaga. 
 <ul>
 <p><li>Desenvolva um projeto (usando dicionários) que vai gravar a quantidade de currículos para cada vaga e quantas pessoas têm pelo menos uma das palavras chaves necessárias no currículo. Para isso, nosso código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga, nome do candidato e um resumo que a pessoa está enviando.</li></p>

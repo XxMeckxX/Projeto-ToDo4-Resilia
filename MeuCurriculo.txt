@@ -1,0 +1,24 @@
+Érick Vieira 
+Brasileiro, 23 anos
+Rio de Janeiro - Rio de Janeiro (disponibilidade de mudança para qualquer lugar de dentro do estado do Rio de Janeiro)
+E-mail: kvalves99@gmail.com
+LinkedIn:https://www.linkedin.com/in/erick-vieira-martins-alves/
+GitHub:https://github.com/XxMeckxX 
+Telefone: (21) 96988-9813
+OBJETIVO: Analista de Dados Jr.
+RESUMO DE QUALIFICAÇÕES
+Estudante do curso de profissionalização em Análise de Dados Resilia, tenho certa experiência na área pois fiz ensino médio técnico na área de informática, estudei MySQL ,o uso de tabelas e outras linguagens de programação. Sou universitário da UFRRJ e curso matemática aplicada, onde tenho contato direto com programação envolvendo problemas matemáticos e otimização de código através de estruturas de dados.Pretendo crescer na área de analista de dados e alcançar novos patamares.
+
+FORMAÇÃO 
+Data Analytics - Resilia - em andamento
+Desenvolvendo habilidades em Phyton, SQL Server, Tableau, Power BI, Matplotlib e trabalho em equipe, postura profissional, pensamento lógico.
+Python – Curso em Vídeo - 20h.
+ Idiomas: Português
+Conhecimento avançado das ferramentas office: Word básico
+Conhecimento em HTML,Python,C,Pascal,MySQL,Java
+FORMAÇÃO ACADÊMICA 
+Informática - FAETEC - Março/2014 e 2017
+Matemática aplicada e computacional  - UFRRJ - Março/2018 e 2024
+PROJETOS
+	Projeto do curso Resilia - O objetivo do projeto era criar um bot na qual ele facilitaria a obtenção de informação sobre a UBS(Unidade Básica de Saúde),fazendo com que a pessoa não precise se deslocar até o local para obter determinadas informações como remédios em estoque , datas disponíveis para consultas ou exames,etc.
+	https://github.com/barbaraavs/Projeto_MD1

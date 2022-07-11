@@ -1,1 +1,0 @@
-python com banco de dados e machine learning,fazendo resolução de problemas com estatística

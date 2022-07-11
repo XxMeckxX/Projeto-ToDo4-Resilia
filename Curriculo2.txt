@@ -1,0 +1,1 @@
+Utilizando python em conjunto com banco de dados e machine learning,encontrando uma ou outra resolução de problemas com estatística.
